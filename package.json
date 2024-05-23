@@ -7,9 +7,9 @@
     "parser",
     "styleSheet"
   ],
-  "version": "0.5.0",
-  "author": "Nikita Vasilyev <me@elv1s.ru>",
-  "repository": "NV/CSSOM",
+  "version": "0.5.1",
+  "author": "Gaurav Dalvi",
+  "repository": "ainosoft/CSSOM",
   "files": [
     "lib/"
   ],
