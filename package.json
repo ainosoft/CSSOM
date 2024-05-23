@@ -1,5 +1,5 @@
 {
-  "name": "cssom",
+  "name": "@ainosoft/cssom",
   "description": "CSS Object Model implementation and CSS parser",
   "keywords": [
     "CSS",
@@ -9,7 +9,7 @@
   ],
   "version": "0.5.1",
   "author": "Gaurav Dalvi",
-  "repository": "ainosoft/CSSOM",
+  "repository": "https://github.com/ainosoft/CSSOM.git",
   "files": [
     "lib/"
   ],
